@@ -12,7 +12,7 @@ import os
 
 # If you have a fine-tuned model folder, set this env var to its path.
 # Otherwise, falls back to the base mental-roberta-base from HuggingFace.
-MODEL_PATH = os.environ.get("MODEL_PATH", "./mental_roberta_final")
+MODEL_PATH = os.environ.get("MODEL_PATH", "abdo1176/mental-roberta-finetuned")
 
 DEVICE = "cpu"  # Railway free tier has no GPU
 

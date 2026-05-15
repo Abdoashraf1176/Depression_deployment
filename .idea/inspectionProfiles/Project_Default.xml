@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="dict.OPENAI_API_KEY" />
+          <option value="dict.OPENAI_API_URL" />
+          <option value="dict.INPUT_DAFAULT_MAX_CHARACTERS" />
+          <option value="dict.GENERATION_DAFAULT_MAX_TOKENS" />
+          <option value="dict.GENERATION_DAFAULT_TEMPERATURE" />
+          <option value="dict.COHERE_API_KEY" />
+          <option value="dict.Gemini_Api_key" />
+          <option value="bool.invoice_line_ids" />
+          <option value="bool.id" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
