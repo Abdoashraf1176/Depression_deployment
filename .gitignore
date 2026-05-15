@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+.cache/
+*.pt
+*.bin
+# Don't ignore the fine-tuned model folder — Railway needs it
+# mental_roberta_final/  <-- keep this commented out
